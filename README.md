@@ -10,7 +10,7 @@
         Selamat datang untuk teman-teman yang sampai di chapter 3 ini. Untuk menjadi the next talent digital kita perlu belajar dan terus mengexplore hal-hal baru. Tetep dijaga semangat dan rasa ingin tahunya. 🤙
 
 ## Ceritakan dong Motivasi teman-teman join dengan kelas ini
-Biar nggak ngangong-ngangong :D 
+        Biar nggak ngangong-ngangong :D 
 
 
 ## Lalu harapan teman-teman miliki
