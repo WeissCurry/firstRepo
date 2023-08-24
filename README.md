@@ -1,5 +1,6 @@
 # firstRepo
 
+       WARMING
 # Binar Academy
 ## _Fullstack Web Developer_
 
@@ -14,4 +15,5 @@
 
 
 ## Lalu harapan teman-teman miliki
->Semoga bisa ngoding sampai weddding!!!
+>Semoga bisa ngoding sampai weddding!?
+
